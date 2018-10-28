@@ -11,3 +11,6 @@ def truncate_long_words(s, def truncate_long_words(s, num):
 
 for t in truncate_long_words(s):
     print t
+
+def hello():
+    print("Hello")
